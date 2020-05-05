@@ -1,0 +1,37 @@
+div{
+	margin: auto;
+}
+.sty{
+	background: grey;
+	font-weight: bold;
+	font-style: sans-serif;
+	margin-top: 2%;
+	padding-top: 8px;
+	padding-bottom: 8px;
+}
+h2{
+	text-align: center;
+}
+.navbar-nav{
+	background: white;
+}
+.nav-item{
+	text-align: center;
+	border-style: solid;
+	font-weight: bold;
+	color: black;
+
+}
+.navbar-brand{
+	font-size: 1.9em;
+	font-weight: bold;
+}
+nav{
+	background-color: grey;
+	min-height: 80px;
+}
+@media (min-width: 576px) { 
+            .navbar-nav,span{ 
+                display: none; 
+            } 
+        } 
