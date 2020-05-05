@@ -30,7 +30,7 @@ nav{
 	background-color: grey;
 	min-height: 80px;
 }
-@media (min-width: 768px) { 
+@media (min-width: 576px) { 
             .navbar-nav,span{ 
                 display: none; 
             } 
